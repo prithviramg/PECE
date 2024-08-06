@@ -1,0 +1,10 @@
+2024-07-26 15:02:45,861 | 3 | logged into session
+2024-07-26 15:03:03,115 | 7 | ---------------------------------------------------------------------------------
+2024-07-26 15:03:03,116 | 8 | MIDCPNIFTY24JULFUT is selected, with qty of 250 for strikes MIDCPNIFTY24JUL12550PE and MIDCPNIFTY24JUL12550CE
+2024-07-26 15:03:44,156 | 3 | logged into session
+2024-07-26 15:03:56,693 | 7 | ---------------------------------------------------------------------------------
+2024-07-26 15:03:56,694 | 8 | MIDCPNIFTY24JULFUT is selected, with qty of 250 for strikes MIDCPNIFTY24JUL12550PE and MIDCPNIFTY24JUL12550CE
+2024-07-26 15:03:59,169 | 5 | ---------------------------------------------------------------------------------
+2024-07-26 15:03:59,169 | 6 | call price - MIDCPNIFTY24JUL12550CE(149.55) + put price - MIDCPNIFTY24JUL12550PE(15.4) = 164.95000000000002
+2024-07-26 15:03:59,169 | 7 | current set threshold is 18.0
+2024-07-26 15:03:59,303 | 8 | current MIDCPNIFTY24JULFUT price is 12683.45

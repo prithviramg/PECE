@@ -1,0 +1,84 @@
+2024-01-01 09:42:53,219 | 34 | fetched trade instruments from Zerodha
+2024-01-01 09:42:53,220 | 42 | current time: 09:42:53 trading started
+2024-01-01 09:42:53,220 | 44 | selected expiry date: 2024-01-04
+2024-01-01 09:42:53,309 | 47 | current nifty price is 21700.55
+2024-01-01 09:42:54,794 | 52 | ATM strike chosen: 21700 and idx: 319
+2024-01-01 09:42:54,794 | 53 | symbols chosen: NIFTY2410421700CE and NIFTY2410421700PE
+2024-01-01 09:42:55,000 | 60 | strike: NIFTY2410421700CE | order_type: SELL | price: 130.6
+2024-01-01 09:42:55,095 | 67 | strike: NIFTY2410421700PE | order_type: SELL | price: 105.85
+2024-01-01 09:45:47,765 | 168 | current nifty spot is: 21706.85
+2024-01-01 09:45:52,962 | 168 | current nifty spot is: 21708.1
+2024-01-01 09:45:58,209 | 168 | current nifty spot is: 21707.95
+2024-01-01 10:00:47,326 | 168 | current nifty spot is: 21724.9
+2024-01-01 10:00:52,627 | 168 | current nifty spot is: 21722.5
+2024-01-01 10:00:57,835 | 168 | current nifty spot is: 21722.1
+2024-01-01 10:15:51,136 | 168 | current nifty spot is: 21711.45
+2024-01-01 10:15:56,341 | 168 | current nifty spot is: 21711.35
+2024-01-01 10:30:51,018 | 168 | current nifty spot is: 21709.1
+2024-01-01 10:30:56,207 | 168 | current nifty spot is: 21709.95
+2024-01-01 10:45:50,013 | 168 | current nifty spot is: 21726.5
+2024-01-01 10:45:55,205 | 168 | current nifty spot is: 21725
+2024-01-01 11:00:46,209 | 168 | current nifty spot is: 21739.25
+2024-01-01 11:00:51,461 | 168 | current nifty spot is: 21737.3
+2024-01-01 11:00:56,653 | 168 | current nifty spot is: 21739.1
+2024-01-01 11:15:49,847 | 168 | current nifty spot is: 21742.5
+2024-01-01 11:15:55,150 | 168 | current nifty spot is: 21740.1
+2024-01-01 11:30:46,452 | 168 | current nifty spot is: 21746.5
+2024-01-01 11:30:51,717 | 168 | current nifty spot is: 21745.5
+2024-01-01 11:30:56,953 | 168 | current nifty spot is: 21745.95
+2024-01-01 11:45:48,657 | 168 | current nifty spot is: 21731.75
+2024-01-01 11:45:53,880 | 168 | current nifty spot is: 21731.05
+2024-01-01 11:45:59,109 | 168 | current nifty spot is: 21732.35
+2024-01-01 12:00:49,814 | 168 | current nifty spot is: 21731.9
+2024-01-01 12:00:55,094 | 168 | current nifty spot is: 21731.55
+2024-01-01 12:15:50,277 | 168 | current nifty spot is: 21741.3
+2024-01-01 12:15:55,510 | 168 | current nifty spot is: 21741.1
+2024-01-01 13:40:02,259 | 34 | fetched trade instruments from Zerodha
+2024-01-01 13:40:02,259 | 42 | current time: 13:40:02 trading started
+2024-01-01 13:40:02,259 | 44 | selected expiry date: 2024-01-04
+2024-01-01 13:40:02,363 | 47 | current nifty price is 21748.65
+2024-01-01 13:40:03,907 | 52 | ATM strike chosen: 21800 and idx: 319
+2024-01-01 13:40:03,907 | 53 | symbols chosen: NIFTY2410421800CE and NIFTY2410421800PE
+2024-01-01 13:40:04,033 | 60 | strike: NIFTY2410421800CE | order_type: SELL | price: 94.8
+2024-01-01 13:40:04,134 | 67 | strike: NIFTY2410421800PE | order_type: SELL | price: 111.75
+2024-01-01 13:45:49,192 | 168 | current nifty spot is: 21747.7
+2024-01-01 13:45:54,395 | 168 | current nifty spot is: 21749.15
+2024-01-01 13:45:59,641 | 168 | current nifty spot is: 21747.55
+2024-01-01 14:00:47,648 | 168 | current nifty spot is: 21768
+2024-01-01 14:00:53,129 | 168 | current nifty spot is: 21770.35
+2024-01-01 14:00:58,322 | 168 | current nifty spot is: 21769.5
+2024-01-01 14:15:49,307 | 168 | current nifty spot is: 21792.15
+2024-01-01 14:15:54,651 | 168 | current nifty spot is: 21790.45
+2024-01-01 14:15:59,883 | 168 | current nifty spot is: 21790.05
+2024-01-01 14:17:50,333 | 92 | nifty moved up 50 points, current spot is 21798.85
+2024-01-01 14:17:50,579 | 99 | strike: NIFTY2410421800CE | order_type: BUY | price: 149
+2024-01-01 14:17:52,207 | 106 | no of trades taken for symbol NIFTY2410421850CE in order history is: 0
+2024-01-01 14:17:52,303 | 114 | strike: NIFTY2410421850CE | order_type: SELL | price: 119.1
+2024-01-01 14:17:52,304 | 118 | no of trades taken for symbol NIFTY2410421850PE in order history is: 0
+2024-01-01 14:17:52,412 | 126 | strike: NIFTY2410421850PE | order_type: SELL | price: {'NFO:NIFTY2410421850PE': {'instrument_token': 10810626, 'last_price': 94.65}}
+2024-01-01 14:30:48,219 | 168 | current nifty spot is: 21796.2
+2024-01-01 14:30:53,396 | 168 | current nifty spot is: 21796.45
+2024-01-01 14:30:58,609 | 168 | current nifty spot is: 21796.1
+2024-01-01 14:45:48,619 | 168 | current nifty spot is: 21814.3
+2024-01-01 14:45:53,864 | 168 | current nifty spot is: 21815.3
+2024-01-01 14:45:59,117 | 168 | current nifty spot is: 21815.1
+2024-01-01 15:00:49,086 | 168 | current nifty spot is: 21829.9
+2024-01-01 15:00:54,413 | 168 | current nifty spot is: 21830.7
+2024-01-01 15:00:59,656 | 168 | current nifty spot is: 21829.65
+2024-01-01 15:10:24,620 | 129 | nifty moved up 50 points, current spot is 21744.6
+2024-01-01 15:10:24,732 | 137 | strike: NIFTY2410421850PE | order_type: BUY | price: 122.3
+2024-01-01 15:10:26,706 | 143 | no of trades taken for symbol NIFTY2410422000CE in order history is: 0
+2024-01-01 15:10:26,852 | 151 | strike: NIFTY2410422000CE | order_type: SELL | price: {'NFO:NIFTY2410422000CE': {'instrument_token': 10811906, 'last_price': 35.35}}
+2024-01-01 15:10:26,856 | 155 | no of trades taken for symbol NIFTY2410422000PE in order history is: 0
+2024-01-01 15:10:26,956 | 163 | strike: NIFTY2410422000PE | order_type: SELL | price: {'NFO:NIFTY2410422000PE': {'instrument_token': 10812162, 'last_price': 215.55}}
+2024-01-01 15:15:49,173 | 168 | current nifty spot is: 21729.7
+2024-01-01 15:15:54,391 | 168 | current nifty spot is: 21731.5
+2024-01-01 15:15:59,665 | 168 | current nifty spot is: 21730.5
+2024-01-01 15:22:14,153 | 129 | nifty moved up 50 points, current spot is 21693.75
+2024-01-01 15:22:14,270 | 137 | strike: NIFTY2410422000PE | order_type: BUY | price: 281.5
+2024-01-01 15:22:16,422 | 143 | no of trades taken for symbol NIFTY2410422450CE in order history is: 0
+2024-01-01 15:22:16,547 | 151 | strike: NIFTY2410422450CE | order_type: SELL | price: {'NFO:NIFTY2410422450CE': {'instrument_token': 10819074, 'last_price': 2.6}}
+2024-01-01 15:22:16,550 | 155 | no of trades taken for symbol NIFTY2410422450PE in order history is: 0
+2024-01-01 15:22:16,656 | 163 | strike: NIFTY2410422450PE | order_type: SELL | price: {'NFO:NIFTY2410422450PE': {'instrument_token': 10819330, 'last_price': 0}}
+2024-01-01 15:25:05,147 | 71 | --------------------------------------------------------
+2024-01-01 15:25:05,149 | 72 | END OF TODAY'S SESSION, SEE YOU NEXT DAY
